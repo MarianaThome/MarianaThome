@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! :vulcan_salute:
 
 
 Oi, eu me chamo Mariana Thomé, PCD,  estudante de Análise e Desenvolvimento de Sistemas, e também apaixonada por Música, Beisebol e Star Trek. Estou em transição de carreira, e tenho procurado me aprofundar em desenvolvimento Front-End. Espero poder contribuir com essa comunidade fantástica da melhor maneira possível!
