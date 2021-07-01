@@ -7,5 +7,5 @@ Oi, eu me chamo Mariana Thomé, PCD,  estudante de Análise e Desenvolvimento de
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mariana-rodrigues-thomé-289579208/) 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marianarthome/) 
 
-<img align=right src="https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif">
+<img align=right src="https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif" alt="Gif GitHub">
 
