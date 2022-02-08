@@ -1,28 +1,14 @@
 <p align="center">
     <a href="#">
-      <img align="center" width="300" src="mariana.png" />
+      <img align="center" width="500" src="mariana2.png" />
     </a>
     <a href="#">
-      <img align="center" width="450" src="dev.gif" />
+      <img align="center" width="300" src="dev.gif" />
     </a>
   </p>
   </br>
   </br>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianathome&layout=compact&langs_count=7&theme=dracula"
-      />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        align="center"
-        height="165"
-        src="https://github-readme-stats.vercel.app/api?username=MarianaThome&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-      />
-    </a>
-  </p><br>
+
 
 ## Hi there! Eu sou a Mariana! :vulcan_salute: <br>
 
