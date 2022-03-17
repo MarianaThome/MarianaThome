@@ -16,7 +16,7 @@
   <div style="display: inline_block"  >
   <img align="right" width="250" height="250" style="border-radius:30px;" src="https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif" alt="Gif GitHub">
   <p> - :woman_student: Estudante de Análise e Desenvolvimento de Sistemas pela Fatec, 4˚ ciclo; </p>
-  <p> - :books: Skills em construção: HTML, CSS, JavaScript, Angular, NodeJs, MongoDB; </p>
+  <p> - :books: Skills em construção: HTML, CSS, JavaScript, Angular, NodeJs, SQL; </p>
   <p> - :wheelchair: PCD; </p>
   <p> - :nerd_face: Apaixonada por Música, Beisebol e Star Trek; </p>
   </div>
