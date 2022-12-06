@@ -28,29 +28,6 @@
 
 
 
-____________________________________________________________________________________________________________________________________
 
-<h1 align="center">
-  <img alt="plantarum-logo" title="plantarum-logo" src=".github/rocketq.png" width="220px" />
-</h1>
-
-<h1 align="center">
-    <img src="logo-plantarum.jpg">
-</h1>
-<br>
-
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML
-- CSS
-- PHP
-- SQL
-
-## 💻 Projeto
-
-Projeto desenvolvido para a disciplina de Laboratório de Banco de Dados. É um site para compartilhamento de mudas de plantas. 
 
 
